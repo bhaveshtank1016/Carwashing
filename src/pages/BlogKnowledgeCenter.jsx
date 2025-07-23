@@ -20,7 +20,7 @@ const blogPosts = [
       <br/><br/>
       <em>A well-chosen railing adds architectural character and ensures safety without compromise.</em>
     `,
-    image: "/src/assets/carr.png",
+    image: "/src/assets/gallery2.jpg",
     date: "June 1, 2025",
   },
   {
@@ -41,7 +41,7 @@ const blogPosts = [
       <br/><br/>
       <em>As innovation continues, metal fabrication is poised to lead the future of smart and green infrastructure.</em>
     `,
-    image: "/src/assets/carwash.jpg",
+    image: "/src/assets/gallery.jpg",
     date: "May 20, 2025",
   },
   {
@@ -62,7 +62,7 @@ const blogPosts = [
       <br/><br/>
       <em>From high-rises to villas, aluminum windows combine form and function in the most elegant way.</em>
     `,
-    image: "/src/assets/carr.png",
+    image: "/src/assets/projectGallery.jpg",
     date: "May 5, 2025",
   },
 ];
